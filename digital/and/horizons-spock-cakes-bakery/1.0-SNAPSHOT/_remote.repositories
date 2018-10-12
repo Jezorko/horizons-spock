@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 12 01:13:23 BST 2018
+horizons-spock-cakes-bakery-1.0-SNAPSHOT.jar>=
+horizons-spock-cakes-bakery-1.0-SNAPSHOT-javadoc.jar>=
+horizons-spock-cakes-bakery-1.0-SNAPSHOT.pom>=

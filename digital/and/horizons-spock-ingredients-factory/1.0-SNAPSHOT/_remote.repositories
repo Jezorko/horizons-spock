@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 12 01:14:44 BST 2018
+horizons-spock-ingredients-factory-1.0-SNAPSHOT.pom>=
+horizons-spock-ingredients-factory-1.0-SNAPSHOT-javadoc.jar>=
+horizons-spock-ingredients-factory-1.0-SNAPSHOT.jar>=
